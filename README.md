@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrey Matsev
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning C# Fundamentals
+- 🌱 I’m currently learning Entity Framework Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... matsevandrey@gmail.com   +359 897 96 7043
 
